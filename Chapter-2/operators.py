@@ -23,7 +23,7 @@ print(a)
 b = (14 > 7)
 print(b)
 
-# Logical operators
+# Logical operato+rs
 bool1 = True
 bool2 = False
 print("The value of bool1 and bool2 is ", (bool1 and bool2))
