@@ -30,7 +30,12 @@
 # print(id(i))
 # print(id(j))
 
-a = 12
-print(id(a))
-a = 12
-print(id(a))
+# a = 12
+# print(id(a))
+# a = 12
+# print(id(a))
+
+# fruit = ["Mango", "Lichy", "apple", "banana"]
+# for a in fruit:
+#     for b in range(0, 10):
+#         print(a)
